@@ -1,0 +1,110 @@
+body {
+    background-color: #FFC0D3;
+}
+
+/* GENEL GÖRÜNÜM */
+
+/* header bölümü */
+
+header img {
+    border: 3;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #FFC0D3;
+    width: 32%;
+    height: auto;
+    top: 3%;
+}
+
+#face {
+    width: 10%;
+    position: absolute;
+    left: 66%;
+    top: 6%;
+}
+
+#insta {
+    width: 10%;
+    position: absolute;
+    left: 77%;
+    top: 6%;
+}
+
+#twit {
+    width: 10%;
+    position: absolute;
+    left: 88%;
+    top: 6%;
+}
+
+/* nav bölümü */
+
+nav {
+    text-align: center;
+    font-size: 27px;
+}
+
+/* section bölümü */
+
+section {
+    background-color: #FF5C8D;
+    color: white;
+    width: 60%;
+    min-height: 200px;
+    position: relative;
+    left: 20%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+/* footer bölümü */
+footer {
+    position: relative;
+    width: 80%;
+    left: 10%;
+}
+
+footer img {
+    border: 3;
+    border-radius: 10px;
+    border-color: #FFC0D3;
+    width: 10%;
+    height: auto;
+    margin: 5%;
+    padding: 6.31%;
+}
+
+/* linkler */
+
+a {
+    color: #524A4E;
+    text-decoration: none;
+    text-transform: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+/* MOVİES SAYFASI */
+
+.afis {
+    width: 150px;
+    height: 200px;
+}
+
+/* CONTACT SAYFASI */
+
+#submit {
+    background-color: #524A4E;
+    color: white;
+    border-radius: 5px;
+    border-color: #FF5C8D;
+    font-size: 22px;
+    height: 30px;
+    width: 88%;
+}
