@@ -1,0 +1,52 @@
+/* header logo */
+
+.logo {
+    height: 113px;
+    width: 351px;
+    margin: auto auto;
+}
+
+/* section */
+
+/* searching part */
+
+.bottom {
+    display: grid;
+    grid: 80px / auto auto auto;
+    grid-gap: 2px;
+    margin: 2px 5%;
+}
+
+
+.bottom > div {
+    text-align: center;
+}
+
+/* other parts */
+
+.top {
+    background-color: #EEEEEE;
+    text-align: center;
+    margin: 0 5%}
+
+/* part1 */
+
+#type1 {
+    background-color: #7EE5DA;
+    padding: 12px;
+}
+
+/* part2 */
+
+#type2 {
+    background-color: #70CCC2;
+    padding: 10px;
+    font-size: 13px;
+}
+
+/* part3 */
+
+#type3 {
+    background-color: #62B3AA;
+    font-size: 13px;
+}
